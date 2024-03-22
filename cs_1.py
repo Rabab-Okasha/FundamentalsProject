@@ -1,5 +1,5 @@
-#name:Rabab Mohamed Abd El-Gafour Okasha ID:20237004
-#name:Basmalah Nabil El-Said Muhammed ID:20235005
+#name:Rabab Mohamed Abd El-Gafour Okasha 
+#name:Basmalah Nabil El-Said Muhammed 
  
 import re
 # menu 1
